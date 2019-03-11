@@ -2,7 +2,7 @@
 
 React-Native Recycle Basket game
 
-![](https://media.giphy.com/media/uizdyHqBTfy7Tqeo9W/giphy.gif)
+![](game-recycle.gif)
 
 ### Installation
 
